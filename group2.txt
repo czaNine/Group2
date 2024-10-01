@@ -1,6 +1,6 @@
-Adis, Charisse Mae Sotis - TESTING
-Padasas, Jeannah Jean Sagpao - TESTING
-Martinez, Annika Castro - HYBRID CLOUD
-Sagum, Mark Leeven Castro - HYBRID CLOUD
-Nicolas, Williard Garado - JAVA
-Fancubit, Angel Joy Falcutila - JAVA
+Adis, Charisse Mae Sotis - TESTING - 10/01/2024
+Padasas, Jeannah Jean Sagpao - TESTING - 10/01/2024
+Martinez, Annika Castro - HYBRID CLOUD - 10/01/2024
+Sagum, Mark Leeven Castro - HYBRID CLOUD - 10/01/2024
+Nicolas, Williard Garado - JAVA - 10/01/2024
+Fancubit, Angel Joy Falcutila - JAVA -  10/01/2024
